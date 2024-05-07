@@ -144,7 +144,7 @@ os_arch="on"
 
 # Shorten the output of the uptime function
 #
-# Default: 'on'
+# Default: 'off'
 # Values:  'on', 'tiny', 'off'
 # Flag:    --uptime_shorthand
 #
@@ -152,7 +152,7 @@ os_arch="on"
 # on:   '2 days, 10 hours, 3 mins'
 # tiny: '2d 10h 3m'
 # off:  '2 days, 10 hours, 3 minutes'
-uptime_shorthand="on"
+uptime_shorthand="off"
 
 
 # Memory
